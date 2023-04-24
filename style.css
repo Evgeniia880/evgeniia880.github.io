@@ -1,0 +1,28 @@
+body
+{background-color: papayawhip;
+    width: 1000px;
+    
+}
+
+body
+{color: lightskyblue;
+font-size: 20px;
+text-align: left;}
+
+h1
+{
+    color: cornflowerblue;
+    text-align: center;
+   
+}
+
+img
+{
+    width: 1000px;
+    height: 1000px;
+}
+
+.header
+{
+ text-align: left;   
+}
